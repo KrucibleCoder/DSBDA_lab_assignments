@@ -5,49 +5,43 @@ This repository contains various Data Science and Big Data Analytics (DSBDA) lab
 
 ## Table of Contents
 
-1. **Implementing a Hash Table**
-   - Implements a hash table with collision handling techniques like chaining or open addressing.
+1. **Data Wrangling, I**
+   - Data wrangling operation using Python on any open source dataset.
 
-2. **Set Operations using ADT**
-   - Creates an Abstract Data Type (ADT) that supports union, intersection, and difference operations on sets.
+2. **Data Wrangling, II**
+   - Data wrangling operation using Python on any open source dataset.
 
-3. **Binary Search Tree (BST) Implementation**
-   - Constructs a BST and provides functions to insert, delete, and search for a key element.
+3. **Descriptive Statistics**
+   - Data analysis using liner regression using Python for any open source dataset.
+   
+4. **Data Analytics, I**
+   - Data analysis using liner regression using Python for any open source dataset.
 
-4. **Expression Tree Creation**
-   - Builds an expression tree from a given prefix, infix, or postfix expression and evaluates it.
+5. **Data Analytics, II**
+   - Data analysis using logistic regression using Python for any open source dataset.
 
-5. **Convert a Binary Tree into a Threaded Binary Tree**
-   - Implements a threaded binary tree to facilitate efficient in-order traversal without recursion.
+6. **Data Analytics, III**
+   - Data analysis using Naïve Bayes classification algorithm using Python for any open source dataset.
 
-6. **Graph Traversal - BFS and DFS**
-   - Implements Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms for graph traversal.
+7. **Text Analytics**
+   - Text Analysis using TF IDF Algorithm.
 
-7. **Minimum Spanning Tree (MST) - Prim's & Kruskal's Algorithm**
-   - Implements Prim’s and Kruskal’s algorithms to find the Minimum Spanning Tree of a graph.
+8. **Data Visualization, I**
+   - Data Visualization operation using Python on any open source dataset.
 
-8. **Shell Sort Algorithm**
-   - Implements the Shell Sort algorithm for sorting an array.
+9. **Data Visualization, II**
+   - Data Visualization operation using Python on any open source dataset.
 
-9. **Merge Sort Algorithm**
-   - Implements the Merge Sort algorithm for sorting an array.
-
-10. **File Handling Operations**
-   - Demonstrates file handling operations such as reading from and writing to files.
-
-11. **Study of Optimal Binary Search Trees (OBST)**
-   - Theoretical study on constructing an optimal binary search tree to minimize search time.
-
-12. **Study of AVL Trees**
-   - Theoretical study on AVL trees, their rotations, and balancing mechanisms.
+10. **Data Visualization, III**
+   - Data Visualization operation using Python on any open source dataset.
 
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/KrucibleCoder/DSA-Lab-Assignments.git
+   git clone https://github.com/KrucibleCoder/DSBDA_lab_assignments.git
    ```
 2. Navigate to the repository directory:
    ```sh
-   cd DSA-Lab-Assignments
+   cd DSBDA_lab_assignments
    ```
 3. Compile and run individual programs as required.
