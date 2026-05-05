@@ -1,7 +1,7 @@
 # DSBDA_lab_assignments
 
 ## Overview
-This repository contains various Data Science and Big Data Analytics (DSBDA) lab assignments implemented in C++/Python. Each program demonstrates fundamental concepts of data structures such as trees, graphs, searching, sorting, and file handling.
+This repository contains various Data Science and Big Data Analytics (DSBDA) lab assignments implemented in JupyterNotebook/Python. Each program demonstrates fundamental concepts of data structures such as trees, graphs, searching, sorting, and file handling.
 
 ## Table of Contents
 
